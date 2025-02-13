@@ -1,4 +1,4 @@
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 
 # Inteligência Artificial
 Este repositório contém material de aula (apresentações, exercícios e cadernos) de Inteligência Artificial (CEIA - FIUBA).
